@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Dolnośląskie",
+    "capital": "Wrocław",
+    "area": "19 946 km²",
+    "population": "2 901 003"
+  },
+  {
+    "name": "Kujawsko-Pomorskie",
+    "capital": "Bydgoszcz",
+    "area": "17 971 km²",
+    "population": "2 079 917"
+  },
+  {
+    "name": "Lubelskie",
+    "capital": "Lublin",
+    "area": "25 122 km²",
+    "population": "2 121 613"
+  },
+  {
+    "name": "Lubuskie",
+    "capital": "Gorzów Wielkopolski",
+    "area": "13 987 km²",
+    "population": "1 015 440"
+  },
+  {
+    "name": "Łódzkie",
+    "capital": "Łódź",
+    "area": "18 218 km²",
+    "population": "2 470 610"
+  },
+  {
+    "name": "Małopolskie",
+    "capital": "Kraków",
+    "area": "15 182 km²",
+    "population": "3 395 663"
+  },
+  {
+    "name": "Mazowieckie",
+    "capital": "Warszawa",
+    "area": "35 558 km²",
+    "population": "5 393 813"
+  },
+  {
+    "name": "Opolskie",
+    "capital": "Opole",
+    "area": "9 411 km²",
+    "population": "988 014"
+  },
+  {
+    "name": "Podkarpackie",
+    "capital": "Rzeszów",
+    "area": "17 845 km²",
+    "population": "2 128 747"
+  },
+  {
+    "name": "Podlaskie",
+    "capital": "Białystok",
+    "area": "20 187 km²",
+    "population": "1 182 677"
+  },
+  {
+    "name": "Pomorskie",
+    "capital": "Gdańsk",
+    "area": "18 310 km²",
+    "population": "2 328 214"
+  },
+  {
+    "name": "Śląskie",
+    "capital": "Katowice",
+    "area": "12 333 km²",
+    "population": "4 540 140"
+  },
+  {
+    "name": "Świętokrzyskie",
+    "capital": "Kielce",
+    "area": "11 710 km²",
+    "population": "1 244 383"
+  },
+  {
+    "name": "Warmińsko-Mazurskie",
+    "capital": "Olsztyn",
+    "area": "24 173 km²",
+    "population": "1 431 299"
+  },
+  {
+    "name": "Wielkopolskie",
+    "capital": "Poznań",
+    "area": "29 826 km²",
+    "population": "3 490 579"
+  },
+  {
+    "name": "Zachodniopomorskie",
+    "capital": "Szczecin",
+    "area": "22 892 km²",
+    "population": "1 703 009"
+  }
+]
